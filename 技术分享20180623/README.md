@@ -33,4 +33,15 @@
 
 * [开源的微信个人号接口 https://github.com/littlecodersh/ItChat]( https://github.com/littlecodersh/ItChat)
 
+* [消息撤回 https://www.jianshu.com/p/712d19374b2e](https://www.jianshu.com/p/712d19374b2e)
 
+## 安装运行
+```
+1、安装python2.7环境
+2、安装依赖库
+pip install itchat
+3、运行
+python wechat_autoreply.py
+或者
+python wechat_fangchehui.py
+```
