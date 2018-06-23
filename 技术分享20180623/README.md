@@ -37,7 +37,7 @@
 
 ## 安装运行
 ```
-1、安装python2.7环境
+1、安装python2.7或者3.6环境
 2、安装依赖库
 pip install itchat
 3、运行
